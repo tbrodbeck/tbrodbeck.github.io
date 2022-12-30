@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Hello, my name is Till Brodbeck. And I can help you to become successful with your technology.
+
+Just get into contact with me.

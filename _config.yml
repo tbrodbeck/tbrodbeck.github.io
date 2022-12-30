@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Brodbeck Solutions
-email: till.u.brodbeck@gmail.com
+title: Brodbeck Technology
+email: brodbeck.techonology@gmail.com
 description: Let's make your vision become reality.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tbrodbeck.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tillustwillus
+linkedin_username: tbrodbeck
 github_username:  tbrodbeck
 
 # Build settings
