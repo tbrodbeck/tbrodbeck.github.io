@@ -5,6 +5,6 @@
 layout: home
 ---
 
-Hello, my name is Till Brodbeck. And I can help you to become successful with your technology.
+Hello 👋
 
-Just get into contact with me.
+My name is Till Brodbeck. And I can help you to become successful with your technology.
