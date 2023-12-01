@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Brodbeck Technology
-email: brodbeck.techonology@gmail.com
+email: brodbeck.technology@gmail.com
 description: Let's make your vision become reality.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tbrodbeck.github.io" # the base hostname & protocol for your site, e.g. http://example.com
